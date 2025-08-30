@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Ayush Tyagi  
 
-<!--
-**ayushtyagi-ds/ayushtyagi-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Scientist** based in Canada  
+🎓 Background in Computer Science | Passion for AI, Data & Problem-Solving  
+💻 Currently learning **Python, SQL, Data Visualization, Machine Learning**  
+📊 Actively building projects and sharing progress on **GitHub & Kaggle**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack  
+- **Languages:** Python, SQL  
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Version Control:** Git, GitHub  
+- **Data Platforms:** Kaggle, Datacamp, Jupyter Notebook  
+
+---
+
+### 🌱 What I'm working on  
+- Data cleaning, analysis & visualization projects  
+- Machine learning models for real-world datasets  
+- Kaggle competitions to build a strong portfolio  
+
+---
+
+### 📫 Connect with me  
+- [LinkedIn](https://www.linkedin.com/in/ayushtyagi1337/)  
+- [Kaggle](ayushtyagi1337)  
+- [Portfolio/Website - if you make one later]  
+
+---
+
+⭐️ *Follow my journey as I grow into a job-ready Data Scientist by 2026!*  
+
