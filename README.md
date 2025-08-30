@@ -25,7 +25,7 @@
 ### 📫 Connect with me  
 - [LinkedIn](https://www.linkedin.com/in/ayushtyagi1337/)  
 - [Kaggle](ayushtyagi1337)  
-- [Portfolio/Website - if you make one later]  
+- [Portfolio]  
 
 ---
 
