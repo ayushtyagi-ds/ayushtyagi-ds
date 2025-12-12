@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ayush Tyagi  
 
-🚀 **Aspiring Data Scientist** based in Canada  
+🚀 **Aspiring Data Engineer** based in Canada  
 🎓 Background in Computer Science | Passion for AI, Data & Problem-Solving  
 💻 Currently learning **Python, SQL, Data Visualization, Machine Learning**  
 📊 Actively building projects and sharing progress on **GitHub & Kaggle**  
@@ -25,7 +25,7 @@
 ### 📫 Connect with me  
 - [LinkedIn](https://www.linkedin.com/in/ayushtyagi1337/)  
 - [Kaggle](ayushtyagi1337)  
-- [Portfolio]  
+ 
 
 ---
 
